@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyDatabaseLab</string>
+    <string name="firstName">Enter First Name...</string>
+    <string name="lastName">Enter Last Name...</string>
+    <string name="add">Add New User</string>
+    <string name="save">Save</string>
+</resources>
